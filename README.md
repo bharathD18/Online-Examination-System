@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224240025
+# Name: Bharath D
+# Date: 09/03/26
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="771" height="769" alt="Screenshot 2026-03-09 101819" src="https://github.com/user-attachments/assets/2bb06ef5-3370-48f3-81ef-9fdb84145406" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="715" height="471" alt="Screenshot 2026-03-09 101829" src="https://github.com/user-attachments/assets/d64bcc2c-c18f-41ce-a497-d44c940b97e6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="626" height="388" alt="Screenshot 2026-03-09 101839" src="https://github.com/user-attachments/assets/4123f73d-3b49-4f60-b406-8686dd310f10" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="794" height="604" alt="Screenshot 2026-03-09 101854" src="https://github.com/user-attachments/assets/8c665c96-0a0a-4f59-87af-1213dfb98221" />
 
 
 
@@ -96,7 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="273" height="607" alt="Screenshot 2026-03-09 101920" src="https://github.com/user-attachments/assets/101234fc-3a95-4f3f-b990-0c2ac5c43583" />
 
 
 # SEQUENCE DIAGRAM
@@ -116,6 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="602" height="471" alt="Screenshot 2026-03-09 101938" src="https://github.com/user-attachments/assets/96a5890c-d5e8-4d9c-ab65-332a7bb48786" />
 
 
 
